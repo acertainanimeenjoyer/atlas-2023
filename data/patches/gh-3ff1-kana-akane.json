@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "Kana & Akane",
+	"description": "Kana & Akane, from Oshi no Ko, a manga and anime (really good give it 10bil try)",
+	"links": {
+		"website": [
+			"https://oshinoko.fandom.com/wiki/Kana_Arima",
+			"https://oshinoko.fandom.com/wiki/Akane_Kurokawa"
+		],
+		"subreddit": [
+			"OshiNoKo"
+		],
+		"discord": [
+			"oshinoko"
+		]
+	},
+	"path": {
+		"194": [
+			[
+				-1289,
+				-698
+			],
+			[
+				-1289,
+				-628
+			],
+			[
+				-1226,
+				-629
+			],
+			[
+				-1226,
+				-699
+			]
+		]
+	},
+	"center": {
+		"194": [
+			-1257,
+			-663
+		]
+	}
+}
