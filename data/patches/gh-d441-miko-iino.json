@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Miko Iino",
+	"description": "not sure, but the hair style, the eye color, and the hair tie color and position is all matching\nMiko Iino from kaguya-sama: Love is war",
+	"links": {
+		"website": [
+			"https://kaguyasama-wa-kokurasetai.fandom.com/wiki/Miko_Iino"
+		]
+	},
+	"path": {
+		"225": [
+			[
+				-134,
+				-824
+			],
+			[
+				-134,
+				-805
+			],
+			[
+				-116,
+				-806
+			],
+			[
+				-119,
+				-823
+			]
+		]
+	},
+	"center": {
+		"225": [
+			-126,
+			-814
+		]
+	}
+}
